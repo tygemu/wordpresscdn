@@ -1,0 +1,2 @@
+# wordpresscdn
+blog.xqingn
